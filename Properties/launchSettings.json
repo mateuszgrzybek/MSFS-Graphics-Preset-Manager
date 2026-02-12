@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MSFSGraphicsPresetSwitcher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MSFSGraphicsPresetSwitcher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
