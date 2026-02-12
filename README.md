@@ -12,3 +12,6 @@ Both of these can be changed at any time.
 - Click save
 - Repeat as many times as you want
 - Swap between the presets by selecting them from the list and clicking `Activate`
+
+## Attributions
+<a href="https://www.flaticon.com/free-icons/turbine" title="turbine icons">Turbine icons created by Freepik - Flaticon</a>
