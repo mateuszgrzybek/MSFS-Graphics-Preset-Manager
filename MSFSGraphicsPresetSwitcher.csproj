@@ -3,7 +3,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
     <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
-    <RootNamespace>MSFSGraphicsPresetSwitcher</RootNamespace>
+    <RootNamespace>MSFSGraphicsPresetManager</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
 	<ApplicationIcon>Assets\Main.ico</ApplicationIcon>
     <Platforms>x86;x64;ARM64</Platforms>
@@ -20,7 +20,12 @@
 	  <SelfContained>true</SelfContained>
 	  <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
 	  <WindowsPackageType>None</WindowsPackageType>
+	  <AssemblyName>MSFSGraphicsPresetManager</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="assets\readme.md" />
+  </ItemGroup>
 
   <ItemGroup>
     <Content Include="Assets\150x150.png" />

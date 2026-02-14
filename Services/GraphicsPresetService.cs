@@ -1,10 +1,10 @@
-﻿using MSFSGraphicsPresetSwitcher.Models;
+﻿using MSFSGraphicsPresetManager.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace MSFSGraphicsPresetSwitcher.Services
+namespace MSFSGraphicsPresetManager.Services
 {
     public class GraphicsPresetService
     {

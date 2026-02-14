@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace MSFSGraphicsPresetSwitcher.Infrastructure
+namespace MSFSGraphicsPresetManager.Infrastructure
 {
     public static class FilePathHelper
     {

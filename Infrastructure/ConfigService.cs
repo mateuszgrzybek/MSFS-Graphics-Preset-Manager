@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text.Json;
 
-namespace MSFSGraphicsPresetSwitcher.Infrastructure
+namespace MSFSGraphicsPresetManager.Infrastructure
 {
     public class ConfigService
     {

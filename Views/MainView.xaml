@@ -1,9 +1,9 @@
 ﻿<UserControl
-    x:Class="MSFSGraphicsPresetSwitcher.Views.MainView"
+    x:Class="MSFSGraphicsPresetManager.Views.MainView"
     x:Name="Root"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:vm="using:MSFSGraphicsPresetSwitcher.ViewModels"
+    xmlns:vm="using:MSFSGraphicsPresetManager.ViewModels"
     Padding="20">
 
     <ScrollViewer>
@@ -17,7 +17,7 @@
 
                 <StackPanel Spacing="6">
                     <TextBlock
-                        Text="MSFS Graphics Preset Switcher"
+                        Text="MSFS Graphics Preset Manager"
                         FontSize="22"
                         FontWeight="SemiBold"/>
 

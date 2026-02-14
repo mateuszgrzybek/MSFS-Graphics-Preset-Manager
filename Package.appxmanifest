@@ -16,7 +16,7 @@
   <mp:PhoneIdentity PhoneProductId="2d1535f7-a140-4a40-8c99-9a3b6a669a62" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>MSFSGraphicsPresetSwitcher</DisplayName>
+    <DisplayName>MSFSGraphicsPresetManager</DisplayName>
     <PublisherDisplayName>MG</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
 	<desktop6:FileSystemWriteVirtualization>disabled</desktop6:FileSystemWriteVirtualization>
@@ -36,8 +36,8 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="MSFSGraphicsPresetSwitcher"
-        Description="MSFSGraphicsPresetSwitcher"
+        DisplayName="MSFSGraphicsPresetManager"
+        Description="MSFSGraphicsPresetManager"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\150x150.png"
         Square44x44Logo="Assets\44x44.png">

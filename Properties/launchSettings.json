@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "MSFSGraphicsPresetSwitcher (Package)": {
+    "MSFSGraphicsPresetManager (Package)": {
       "commandName": "MsixPackage"
     },
-    "MSFSGraphicsPresetSwitcher (Unpackaged)": {
+    "MSFSGraphicsPresetManager (Unpackaged)": {
       "commandName": "Project"
     }
   }

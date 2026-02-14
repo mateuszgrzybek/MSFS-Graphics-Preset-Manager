@@ -2,9 +2,9 @@
 using Microsoft.UI;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Media;
-using MSFSGraphicsPresetSwitcher.Infrastructure;
-using MSFSGraphicsPresetSwitcher.Models;
-using MSFSGraphicsPresetSwitcher.Services;
+using MSFSGraphicsPresetManager.Infrastructure;
+using MSFSGraphicsPresetManager.Models;
+using MSFSGraphicsPresetManager.Services;
 using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
@@ -15,7 +15,7 @@ using Windows.Storage.Pickers;
 using Windows.UI;
 using WinRT.Interop;
 
-namespace MSFSGraphicsPresetSwitcher.ViewModels
+namespace MSFSGraphicsPresetManager.ViewModels
 {
     public class MainViewModel : INotifyPropertyChanged
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MSFSGraphicsPresetSwitcher.Models
+namespace MSFSGraphicsPresetManager.Models
 {
     public class GraphicsPresetEntry
     {

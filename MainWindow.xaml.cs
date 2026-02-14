@@ -3,7 +3,7 @@ using Microsoft.UI.Windowing;
 using System;
 using WinRT.Interop;
 
-namespace MSFSGraphicsPresetSwitcher
+namespace MSFSGraphicsPresetManager
 {
     public sealed partial class MainWindow : WinUIEx.WindowEx
     {

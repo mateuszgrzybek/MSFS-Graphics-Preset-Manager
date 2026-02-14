@@ -1,9 +1,9 @@
 ﻿using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
-using MSFSGraphicsPresetSwitcher.Services;
-using MSFSGraphicsPresetSwitcher.ViewModels;
+using MSFSGraphicsPresetManager.Services;
+using MSFSGraphicsPresetManager.ViewModels;
 
-namespace MSFSGraphicsPresetSwitcher.Views
+namespace MSFSGraphicsPresetManager.Views
 {
     public sealed partial class MainView : UserControl
     {
